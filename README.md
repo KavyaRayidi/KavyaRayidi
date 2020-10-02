@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, Kavya here👋
 
-<!--
-**KavyaRayidi/KavyaRayidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech degree in SRM University.
+- 🔭 I see myself as an efficient Electronics and Communications engineer and an IOT developer in the future.
+- 🧗🏻‍♀️I am skilled in Python, C, C++, IOT, Content Writing, Public Speaking & Leadership Qualities.
+- 👩🏻‍💻 Being a tech enthusiast, I possess the zeal to learn about new technologies so that I can keep up with the ever-changing dynamic technological environment and contribute my part in making the world more tech-friendly. 
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me on:
+[![LinkedIn](https://github.com/KavyaRayidi/KavyaRayidi/blob/main/icons8-linkedin.svg)](https://www.linkedin.com/in/kavya-rayidi-695224193/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/KavyaRayidi/KavyaRayidi/blob/main/icons8-instagram.svg)](https://instagram.com/kavyafy_?igshid=u380habjhskf)
+
+### Github Stats: 
+<img align="center" alt="Kavya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KavyaRayidi&show_icons=true&hide_border=true" />
