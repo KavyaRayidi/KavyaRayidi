@@ -11,4 +11,4 @@
 [![LinkedIn](https://github.com/KavyaRayidi/KavyaRayidi/blob/main/icons8-linkedin.svg)](https://www.linkedin.com/in/kavya-rayidi-695224193/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/KavyaRayidi/KavyaRayidi/blob/main/icons8-instagram.svg)](https://instagram.com/kavyafy_?igshid=u380habjhskf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Instagram](https://github.com/KavyaRayidi/KavyaRayidi/blob/main/icons8-gmail.svg)](mailto:kavyarayidi477@gmail.com)
 
 ### Github Stats: 
-<img align="center" alt="Kavya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KavyaRayidi&show_icons=true&hide_border=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KavyaRayidi&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
