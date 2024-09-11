@@ -1,8 +1,9 @@
 ## Hi there, Kavya here👋
 
+- 💻 Working in NielsenIQ.
 - 🎓 B.Tech degree in SRM University.
-- 🔭 I see myself as an efficient Electronics and Communications engineer and an IOT developer in the future.
-- 🧗🏻‍♀️I am skilled in Python, C, C++, IOT, Content Writing, Public Speaking & Leadership Qualities.
+- 🔭 Techie with a strong background in application support, cloud computing, log analysis, data analysis and major incident management.
+- 🧗🏻‍♀️ I am skilled in Python, SQL, Azure Cloud, Devops, Gen AI, C, IOT, Content Writing and Public Speaking.
 - 👩🏻‍💻 Being a tech enthusiast, I possess the zeal to learn about new technologies so that I can keep up with the ever-changing dynamic technological environment and contribute my part in making the world more tech-friendly. 
 
 ***
