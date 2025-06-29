@@ -1,6 +1,6 @@
 ## Hi there, Kavya here👋
 
-- 💻 Working in NielsenIQ.
+- 💻 Working in Highradius.
 - 🎓 B.Tech degree in SRM University.
 - 🔭 Techie with a strong background in application support, cloud computing, log analysis, data analysis and major incident management.
 - 🧗🏻‍♀️ I am skilled in Python, SQL, Azure Cloud, Devops, Gen AI, C, IOT, Content Writing and Public Speaking.
